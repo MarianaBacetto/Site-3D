@@ -12,5 +12,17 @@ ul {
     padding: 16px;
 }
 h1{
- color: red;
+ color: rgb(163, 15, 15);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.center{
+    text-align: center;
 }
